@@ -4,7 +4,7 @@ Nhóm 9 báo cáo Chuyên đề Công nghệ INT3414_20
 Thành viên:
 - Trần Đinh Gia Khánh - 20020141
 - Hoàng Viết Khánh - 20020296
-- Phạm Nguyễn Tuấn Hoàng - 2002001
+- Phạm Nguyễn Tuấn Hoàng - 20020015
 - Đỗ Việt Hưng - 20020139
 
 Hướng dẫn Implementation: 
