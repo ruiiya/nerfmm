@@ -1,4 +1,4 @@
-# NeRF--: Neural Radiance Fields với các tham số camera chưa biết
+# NeRF$--$: Neural Radiance Fields với các tham số camera chưa biết
 Nhóm 9 báo cáo Chuyên đề Công nghệ INT3414_20
 
 Thành viên:
